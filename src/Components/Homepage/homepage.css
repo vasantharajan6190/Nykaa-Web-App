@@ -1,0 +1,7 @@
+.topcards{
+    border: 3px solid #e3e4cb;
+    box-shadow: 5px 10px 18px #727171;
+}
+.topcards:hover{
+    cursor: pointer;
+}
